@@ -78,10 +78,4 @@ Users can now choose between using the SQLAlchemy v1 or SQLAlchemy v2 dialects w
 - Install SQLAlchemy v2 using `pip install databricks-sqlalchemy`
 
 
-## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## License
-
-[Apache License 2.0](LICENSE)
